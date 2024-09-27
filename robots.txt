@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://lacencem.github.io/sitemap.lacencem.gz
+Sitemap: https://lacencem.github.io/app/sitemap.lacencem.gz
+Sitemap: https://lacencem.github.io/assets/sitemap.lacencem.gz
+Sitemap: https://lacencem.github.io/css/sitemap.lacencem.gz
+Sitemap: https://lacencem.github.io/data/sitemap.lacencem.gz
+Sitemap: https://lacencem.github.io/includes/sitemap.lacencem.gz
+Sitemap: https://lacencem.github.io/item/sitemap.lacencem.gz
+Sitemap: https://lacencem.github.io/src/sitemap.lacencem.gz
